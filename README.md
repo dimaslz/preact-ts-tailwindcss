@@ -8,6 +8,7 @@ Feel free to fork, I hope to help you :), feedback are welcome.
 * Move tests close to component
 * Move CSS to SASS (.css files to .scss)
 * Allow use .env files ([https://github.com/robinvdvleuten/preact-cli-plugin-env-vars](https://github.com/robinvdvleuten/preact-cli-plugin-env-vars))
+* Commit linter ([https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/))
 
 ## CLI Commands
 *   `yarn install`: Installs dependencies
