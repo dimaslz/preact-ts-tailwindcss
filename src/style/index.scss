@@ -1,0 +1,9 @@
+@import './tailwind';
+
+html, body {
+	@apply text-gray-600 font-sans bg-white m-0 p-0 w-full h-full font-normal antialiased;
+}
+
+* {
+	@apply box-border;
+}
