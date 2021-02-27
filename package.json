@@ -3,6 +3,11 @@
   "name": "preact-ts-tailwindcss",
   "version": "0.0.0",
   "license": "MIT",
+  "author": "Dimas López (aka dimaslz) <me@dimaslz.io>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimaslz/preact-ts-tailwindcss.git"
+  },
   "scripts": {
     "build": "preact build --prerender",
     "serve": "sirv build --port 8080 --cors --single",
